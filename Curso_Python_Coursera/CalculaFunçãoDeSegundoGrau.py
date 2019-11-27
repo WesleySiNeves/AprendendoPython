@@ -1,9 +1,12 @@
 
 import math
 
-A =  float(input("digite o valor de A:"))
-B =  float(input("digite o valor de B:"))
-C =  float(input("digite o valor de C:"))
+A =  input("digite o valor de A:")
+A = float(A)
+B =  input("digite o valor de B:")
+B = float(B)
+C =  input("digite o valor de C:")
+C= float(C)
 
 
 #---------------------------------------------------------
@@ -17,8 +20,8 @@ Delta =(B ** 2) -4 * A * C
 
 
 if(Delta == 0):
-        ValorX1 = (-(B) + math.sqrt(Delta)) / (2 * A)
-        print("Só existe uma raiz é:",ValorX1)
+    ValorX1 = (-(B) + math.sqrt(Delta)) / (2 * A)
+    print("Só existe uma raiz é:",ValorX1)
 else:
         if(Delta < 0):
             print("Essa equação não possue valores reais:")
