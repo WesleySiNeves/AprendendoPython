@@ -1,1 +1,1 @@
-Testando grava√ß√£o de arquivos em Python  Acrescentando conte√∫do
+Testando gravaÁ„o de arquivos em Python 
