@@ -4,7 +4,9 @@ from tkinter import *
 
 janela = Tk()
 
-Label(janela,text="Ola Galera").pack() 
+# Gerenciador de layout pack
+# Tk ou  tkinter é mult plataforma 
+Label(janela,text="Ola Galera", ).pack() 
 
 janela.mainloop()
 
