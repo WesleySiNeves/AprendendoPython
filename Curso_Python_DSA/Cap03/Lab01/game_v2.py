@@ -1,4 +1,4 @@
-# Game Ping-Pong
+1# Game Ping-Pong
 
 # Imports
 from tkinter import *
