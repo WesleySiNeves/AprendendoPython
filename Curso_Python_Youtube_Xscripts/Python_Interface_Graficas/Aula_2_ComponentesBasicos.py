@@ -16,5 +16,5 @@ main_window["bg"] ="green"
 main_window.geometry("800x300+100+100")
 
 ## Executa o programa ,mostrando a janela
-main_window.mainloop();
+main_window.mainloop()
 
