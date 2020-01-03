@@ -7,7 +7,7 @@ main_window["bg"] ="green"
 main_window.minsize(300,100)
 main_window.title("Jogo Forca")
 
-jogo = Jogo.Jogo(main_window)
+jogo = Jogo(main_window)
 
 
 
