@@ -1,11 +1,11 @@
 
 valor_saque =  int(input("Qual é o valor do Saque ?"))
 
-# if(valor_saque <10 or valor_saque >600):
-#     print("Valor do saque invalido! digite um valor entre 10 e 600.")
+if(10 < valor_saque < 600):
+    print("Valor do saque invalido! digite um valor entre 10 e 600.")
 
-
-notas = [100,50,20,10,5,2]
+#Desafio ,Colocar a note de 5
+notas = [100,50,20,10,5,2,1]
 
 saida =""
 
