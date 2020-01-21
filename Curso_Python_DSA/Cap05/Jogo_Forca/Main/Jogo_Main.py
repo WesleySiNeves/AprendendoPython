@@ -188,7 +188,7 @@ class Jogo():
         self.IncrementarImagenBonecoErro()
 
     def GameOver(self):
-        pass
+        
 
     def IncrementarImagenBonecoErro(self):
         
