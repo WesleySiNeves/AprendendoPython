@@ -1,9 +1,7 @@
 {
     "python.linting.enabled": true,
-<<<<<<< HEAD
-    "python.pythonPath": "C:\\Users\\PCSOLUTION\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe"
-=======
-    "python.pythonPath": "C:\\Users\\wesley.neves\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+    "python.pythonPath": "C:\\Users\\PCSOLUTION\\AppData\\Local\\Programs\\Python\\Python37-32\\python.exe",
+    // "python.pythonPath": "C:\\Users\\wesley.neves\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
     "sqltools.connections": [
         {
             "database": "${workspaceFolder}\\Curso_Python_DSA/Cap06/Notebooks/escola.db",
@@ -11,5 +9,5 @@
             "name": "Escola_Sqlite"
         }
     ]
->>>>>>> 9d1926882cc535fa084e222382e7e725d7ae1075
+
 }
