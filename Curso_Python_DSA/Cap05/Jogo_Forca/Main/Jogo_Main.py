@@ -1,15 +1,15 @@
 import tkinter
-
 import random
-from tkinter import *
 import json
+
+from tkinter import *
 from functools import *
 from PIL import Image, ImageTk
 
 
 
 
-class Perguntas():
+class PerguntaEntity():
     def __init__(self, numero=0, pergunta="", dica="", resposta=""):
         self.numero = numero
         self.pergunta = pergunta
@@ -24,29 +24,17 @@ class Jogo():
         self.DiretorioArquivos = self.initdiretorioArquivos()
         self.NomeArquivoPerguntas = self.initdiretorioArquivoPerguntas()
         self.diretorioimagens = diretorio
-        self.letrasdoalfabeto = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q",
-                                 "R", "S", "T", "U", "V", "X", "Z"]
+        self.letrasdoalfabeto = ["A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q","R", "S", "T", "U", "V", "X", "Z"]
         self.listaImagensErro =[]
-        self.pergunta_vez =()
+        self.perguntaEscolhida =PerguntaEntity()
         self.perguntas_efeituadas =[]
         self.QuantidadeErros =0
+        self.respostaUsuario =""
         self.letras_escolhidas =[]
+        self.letras_erradas =[]
         self.data_source_perguntas =self.initDataSource()
         self.IniciarLayout()
 
-    def initdiretorioArquivoPerguntas(self):
-        return "perguntas.json"
-    
-    def initdiretorioArquivos(self):
-        return r"F:/VersionCode/AprendendoPython/AprendendoPython/Curso_Python_DSA/Cap05/Jogo_Forca/Arquivos/"
-    
-   # inicia todo o layout do jogo #
-    def IniciarLayout(self):
-        self.diretorioimagens = self.getDiretorioImagens()
-        self.iniciar_Boneco()
-        self.iniciar_pergunta()
-        self.iniciar_componentes()
-        self.iniciar_Botoes_Letras_Alfabeto()
 
     def initDataSource(self):
         arquivo = open(self.DiretorioArquivos + self.NomeArquivoPerguntas, 'r')
@@ -55,7 +43,7 @@ class Jogo():
         retorno = []
 
         for item in (data):
-            pergunta = Perguntas()
+            pergunta = PerguntaEntity()
             pergunta.numero = item["numero"]
             pergunta.pergunta = item["pergunta"]
             pergunta.dica = item["dica"]
@@ -64,13 +52,30 @@ class Jogo():
 
         return list(retorno)
 
-
+# inicia todo o layout do jogo #
+    def IniciarLayout(self):
+        self.diretorioimagens = self.getDiretorioImagens()
+        self.iniciar_Boneco()
+        self.iniciar_pergunta()
+        self.iniciar_componentes()
+        self.iniciar_Botoes_Letras_Alfabeto()
+    #region Diretorios
+    
+    def initdiretorioArquivoPerguntas(self):
+        return "perguntas.json"
+    
+    def initdiretorioArquivos(self):
+        return r"F:/VersionCode/AprendendoPython/AprendendoPython/Curso_Python_DSA/Cap05/Jogo_Forca/Arquivos/"
+    
     def getDiretorioImagens(self):
         configurationFile = "get configuration file"
 
         if (1 == 1):
-            return r"F:\VersionCode\AprendendoPython\AprendendoPython\Curso_Python_DSA\Cap05\Jogo_Forca\Imagens"
-   
+            return r"F:/VersionCode/AprendendoPython/AprendendoPython/Curso_Python_DSA/Cap05/Jogo_Forca/Imagens"
+  
+    #endregion 
+    
+     
     def  iniciar_Boneco(self):
         
         diretorio  = self.getDiretorioImagens()
@@ -119,29 +124,41 @@ class Jogo():
     def escolher_pergunta(self):
         data = self.data_source_perguntas
         escolha = random.randint(0, len(data) - 1)
-        perguntaEscolhida =data[escolha]
         
-        self.pergunta_vez = perguntaEscolhida
-        self.perguntas_efeituadas.append(perguntaEscolhida)
-        
-        return perguntaEscolhida
+        self.perguntaEscolhida = data[escolha]
+        self.perguntas_efeituadas.append(data[escolha])
+       
   
     def iniciar_pergunta(self):
             
-        perguntaEscolhida   =self.escolher_pergunta()
+        self.escolher_pergunta()
         
-        lblPergunta = Label(self.main_window,text = perguntaEscolhida.pergunta, height =2 ,width =20)
-        lblPergunta.config(font=("Courier", 12))
-        lblPergunta.grid(row=0,column=1)
+        self.lblPergunta = Label(self.main_window,text = self.perguntaEscolhida.pergunta, height =2 ,width =20)
+        self.lblPergunta.config(font=("Courier", 12))
+        self.lblPergunta.grid(row=0,column=1)
         
-        lblDica = Label(self.main_window,text = "Dica:"+perguntaEscolhida.dica, height =2 ,width =20)
-        lblDica.config(font=("Courier", 12))
-        lblDica.grid(row=0,column=2)
+        self.lblDica = Label(self.main_window,text = "Dica:"+self.perguntaEscolhida.dica, height =2 ,width =20)
+        self.lblDica.config(font=("Courier", 12))
+        self.lblDica.grid(row=0,column=2)
+        
+       
+        self.respostaUsuario =  len(self.perguntaEscolhida.resposta) * "_"
+        
+        
+        self.lblResposta = Label(self.main_window,text = "Resposta:"+self.respostaUsuario, height =2 ,width =20)
+        self.lblResposta.config(font=("Courier", 12))
+        self.lblResposta.grid(row=1,column=2)
+        
        
     def iniciar_componentes(self):
-        lblLetrasEscolhidas = Label(self.main_window,text = self.letras_escolhidas, height =2 ,width =20)
-        lblLetrasEscolhidas.config(font=("Courier", 12))
-        lblLetrasEscolhidas.grid(row=3,column=1)
+        self.lblLetrasEscolhidas = Label(self.main_window,text = self.letras_escolhidas, height =2 ,width =20)
+        self.lblLetrasEscolhidas.config(font=("Courier", 12))
+        self.lblLetrasEscolhidas.grid(row=6,column=4)
+        
+        self.lblMensagem = Label(self.main_window,text = self.letras_erradas, height =2 ,width =30)
+        self.lblMensagem.config(font=("Courier", 14))
+        self.lblMensagem.grid(row=7,column=5)
+    
     
     def iniciar_Botoes_Letras_Alfabeto(self):
         
@@ -153,12 +170,13 @@ class Jogo():
             incrementColumn += 1
   
     def hasLetraNaResposta(self, pergunta, letraRespondida):
-        resposta = pergunta.resposta
 
-        if (str(pergunta.resposta).find(letraRespondida) == -1):
+        if (str(pergunta.resposta).upper().find(letraRespondida) == -1):
             return False;
         else:
             return True;
+            
+           
 
     def getQuantidadeLetras(self):
         perg = self.iniciar_pergunta()
@@ -167,28 +185,48 @@ class Jogo():
     def btn_click(self, botao):
       
       letra = botao["text"]
+      self.lblMensagem["text"] =""
       
-    #   if(self.letras_escolhidas.count(letra) > 0):
-          
-          
       
-      if(self.hasLetraNaResposta(self.pergunta_vez,letra)):
+      if(self.hasLetraNaResposta(self.perguntaEscolhida,letra)):
           self.PreencherLetra(letra)
       else:
-          self.incrementarErros()
+          self.incrementarErros(letra)
           
       if(self.QuantidadeErros==7):
            self.GameOver()
           
-    def PreencherLetra(self):
-        pass
+    def PreencherLetra(self,letra):
+        self.respostaUsuario = montaResposta(self,letra)
+        
+        self.lblResposta["text"] ="Resposta : {0}".format(self.respostaUsuario)
+        
+    def getPosicaoLetra(self, letraRespondida):
+        return (str(self.perguntaEscolhida.resposta).index(letraRespondida))        
+   
+        
+    def montaResposta(self,letra):
+        posicao = getPosicaoLetra()
+        
+    
+            
+    
          
-    def incrementarErros(self):
-        self.QuantidadeErros +=1
-        self.IncrementarImagenBonecoErro()
+    def incrementarErros(self,letra):
+        
+        if(self.letras_erradas.count(letra) == 0):
+            self.letras_erradas.append(letra)
+            self.QuantidadeErros +=1
+            self.lblLetrasEscolhidas["text"] += "{0} / ".format(letra)
+            self.IncrementarImagenBonecoErro()
+        else:
+            self.lblMensagem["text"]  = "A letra {0} já foi digitada".format(letra)
+            
+        
 
     def GameOver(self):
         pass
+        
 
     def IncrementarImagenBonecoErro(self):
         
@@ -197,18 +235,11 @@ class Jogo():
         labelBoneco.image = foto[1]  # this line need to prevent gc
         labelBoneco.grid(row=0,column=0)
 
-        # label = Label(image=photo_zero)
-        # label.image = photo_zero  # this line need to prevent gc
-        # label.grid(row=0,column=0)
+       
    
-    
-# root = tkinter.Tk()
-# Application(root)
-# root.mainloop()    
-    
 
 main_window = tkinter.Tk()  #  Tk() e a classe principal
-main_window["bg"] ="green"
+#main_window["bg"] ="green"
 main_window.title("Jogo Forca")
 jogo = Jogo(main_window)
 main_window.geometry("800x600+300+300")
