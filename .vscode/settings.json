@@ -8,5 +8,6 @@
             "dialect": "SQLite",
             "name": "Escola_Sqlite"
         }
-    ]
+    ],
+    "sqltools.useNodeRuntime": true
 }
