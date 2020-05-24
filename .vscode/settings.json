@@ -1,6 +1,6 @@
 {
     "python.linting.enabled": true,
-    "python.pythonPath": "C:\\ProgramData\\Anaconda3\\python.exe",
+    "python.pythonPath": "C:\\Users\\Wesley.Neves\\Anaconda3\\envs\\Deep Learning\\python.exe",
 
     "sqltools.connections": [
         {
