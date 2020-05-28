@@ -9,5 +9,6 @@
             "name": "Escola_Sqlite"
         }
     ],
-    "sqltools.useNodeRuntime": true
+    "sqltools.useNodeRuntime": true,
+    "git.ignoreLimitWarning": true
 }
