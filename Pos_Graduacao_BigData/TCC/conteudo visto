@@ -28,6 +28,9 @@ https://www.kaggle.com/vignesh1694/covid19-coronavirus
 https://www.kaggle.com/andrewmvd/covid19-ct-scans/kernels
 https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
 https://www.kaggle.com/luisblanche/covidct?
+https://www.kaggle.com/emrecetin/francois-cnn-model-on-covid-19-images
+https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset?select=Coronahack-Chest-XRay-Dataset
+https://www.kaggle.com/andrewmvd/covid19-ct-scans?select=ct_scans
 
 
 Git hub vistos
@@ -36,5 +39,15 @@ https://github.com/deepdados/ProjetoCOVID/blob/master/projeto_cesar_lucas_COVID.
 Tecnicas no Artigo
 Data Augmentation: 
 https://medium.com/mlait/image-data-augmentation-image-processing-in-tensorflow-part-2-b77237256df0
-https://www.javatpoint.com/pytorch-data-augmentation-process
+https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844
+
+
+Transfer Learning
+http://ww2.inf.ufg.br/~anderson/deeplearning/20181/Convolucionais%20parte%20II%20-%20Slides%20-%20VGG%20Inception%20GoogleNet%20Resnet%20DenseNet%20Highway.pdf
+https://medium.com/analytics-vidhya/transfer-learning-with-keras-9a1b3253211c
+https://www.kaggle.com/rajmehra03/a-comprehensive-guide-to-transfer-learning
+
+
+# temos que assistir a aula de explicação de 
+binary_crossentropy : canal sandeco
 
