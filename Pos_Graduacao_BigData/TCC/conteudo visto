@@ -41,6 +41,8 @@ Tecnicas no Artigo
 Data Augmentation: 
 https://medium.com/mlait/image-data-augmentation-image-processing-in-tensorflow-part-2-b77237256df0
 https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844
+https://medium.com/@hbjenssen/covid-19-radiology-data-collection-and-preparation-for-artificial-intelligence-4ecece97bb5b
+https://towardsdatascience.com/detection-of-covid-19-presence-from-chest-x-ray-scans-using-cnn-class-activation-maps-c1ab0d7c294b
 
 
 Transfer Learning
@@ -52,3 +54,6 @@ https://www.kaggle.com/rajmehra03/a-comprehensive-guide-to-transfer-learning
 # temos que assistir a aula de explicação de 
 binary_crossentropy : canal sandeco
 
+
+Sobre CrispDM
+https://paulovasconcellos.com.br/crisp-dm-semma-e-kdd-conhe%C3%A7a-as-melhores-t%C3%A9cnicas-para-explora%C3%A7%C3%A3o-de-dados-560d294547d2
