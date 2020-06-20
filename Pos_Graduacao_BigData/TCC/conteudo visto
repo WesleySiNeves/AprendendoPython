@@ -39,22 +39,11 @@ https://www.kaggle.com/aaryapatel98/detecting-covid-19-in-x-ray-images-with-tens
 Git hub vistos
 https://github.com/deepdados/ProjetoCOVID/blob/master/projeto_cesar_lucas_COVID.pdf
 
-Tecnicas no Artigo
-Data Augmentation: 
-https://medium.com/mlait/image-data-augmentation-image-processing-in-tensorflow-part-2-b77237256df0
-https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844
 https://medium.com/@hbjenssen/covid-19-radiology-data-collection-and-preparation-for-artificial-intelligence-4ecece97bb5b
 https://towardsdatascience.com/detection-of-covid-19-presence-from-chest-x-ray-scans-using-cnn-class-activation-maps-c1ab0d7c294b
-https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/
 https://towardsdatascience.com/investigation-of-explainable-predictions-of-covid-19-infection-from-chest-x-rays-with-machine-cb370f46af1d
-https://towardsdatascience.com/investigation-of-explainable-predictions-of-covid-19-infection-from-chest-x-rays-with-machine-cb370f46af1d
-https://www.technologyreview.com/2020/03/24/950356/coronavirus-neural-network-can-help-spot-covid-19-in-chest-x-ray-pneumonia/
 
-https://towardsdatascience.com/detection-of-covid-19-presence-from-chest-x-ray-scans-using-cnn-class-activation-maps-c1ab0d7c294b
 (Mapas de ativação )
-
-
-
 Transfer Learning
 http://ww2.inf.ufg.br/~anderson/deeplearning/20181/Convolucionais%20parte%20II%20-%20Slides%20-%20VGG%20Inception%20GoogleNet%20Resnet%20DenseNet%20Highway.pdf
 https://medium.com/analytics-vidhya/transfer-learning-with-keras-9a1b3253211c
@@ -68,8 +57,17 @@ binary_crossentropy : canal sandeco
 Sobre CrispDM
 https://paulovasconcellos.com.br/crisp-dm-semma-e-kdd-conhe%C3%A7a-as-melhores-t%C3%A9cnicas-para-explora%C3%A7%C3%A3o-de-dados-560d294547d2
 
+Tecnicas no Artigo
+Data Augmentation: 
+https://medium.com/mlait/image-data-augmentation-image-processing-in-tensorflow-part-2-b77237256df0
+https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/
+https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844
+
+
 Mapsas de Ativação :
 https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/
+https://towardsdatascience.com/detection-of-covid-19-presence-from-chest-x-ray-scans-using-cnn-class-activation-maps-c1ab0d7c294b
 
 Banco de dados do MIT imagens de Covid
 https://www.technologyreview.com/2020/03/24/950356/coronavirus-neural-network-can-help-spot-covid-19-in-chest-x-ray-pneumonia/
+(map util)
