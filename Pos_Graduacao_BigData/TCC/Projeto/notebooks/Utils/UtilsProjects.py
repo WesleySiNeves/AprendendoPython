@@ -1,8 +1,16 @@
 
+#/*Classes para manipulação dos diretorios*/
+class UtilsDiretory(object):
+  def __init__(self):
+    self.DiretorioProjeto =""
+
+  
+  def get_diretorio(self,diretorio_base,sub_dir):
+    return r"{0}/{1}".format(diretorio_base,sub_dir)
 
 
 
-
+#/*Classe para as configurações da rede */
 class NetWorkConfiguration(object):
     def __init__(self):
         self.IdModelo =""
@@ -30,7 +38,7 @@ class NetWorkConfiguration(object):
         self.Acuracia = ""
         self.Sensitividade =""
         self.Especificidade =""
-        self.DiretorioProjeto=""
+
 
     def to_dictionary(self):
         self.NomeModelo = self.get_ModelName()
