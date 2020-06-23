@@ -1,3 +1,4 @@
+import os
 
 #/*Classes para manipulação dos diretorios*/
 class UtilsDiretory(object):
@@ -7,7 +8,14 @@ class UtilsDiretory(object):
   
   def get_diretorio(self,diretorio_base,sub_dir):
     return r"{0}/{1}".format(diretorio_base,sub_dir)
-
+  
+  
+  def clear_diretorio(self,diretorio):
+    for file in os.listdir(diretorio):
+        full_name =os.path.join(diretorio, file)
+        
+        if os.path.exists(full_name):
+            os.remove(full_name) 
 
 
 #/*Classe para as configurações da rede */
