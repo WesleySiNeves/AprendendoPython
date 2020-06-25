@@ -1,6 +1,6 @@
 
 
- 1) Com base no que tenho (fazer uma rede neural  binária) Covid ou não covid
+ 1) Com base no que tenho (fazer uma rede neural  binária) Covid ou não covid (corrigido)
  2) Contextualizar melhor a introdução, dar corpo ao artigo  contextualizar de como está no mundo e como está no brasil
  3) Disponibilizar uma imagem com covid e sem covid na introdução ( de acordo com fulano ) está e uma imagem com e essa e uma sem 
  
@@ -23,3 +23,6 @@
  10) investigar no final do artigo , que nos trabalhos futuros a possibilidade do uso do r-cnn para melhorar a performace.
  
  
+config_VGG16
+config_Xception 
+config_ResNet101

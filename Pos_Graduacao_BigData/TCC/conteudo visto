@@ -5,6 +5,7 @@ Trabalhos Sobre Covid 19:
 https://josephpcohen.com/w/public-covid19-dataset/
 https://www.jornaldepneumologia.com.br/detalhe_artigo.asp?id=3333
 https://www.sanarmed.com/covid-19-e-o-uso-racional-dos-exames-de-imagem-colunistas
+https://www.paho.org/bra/index.php?option=com_content&view=article&id=6101:covid19&Itemid=875
 
 
 
@@ -80,3 +81,13 @@ https://towardsdatascience.com/how-to-use-covid-cxr-to-predict-covid-19-on-chest
 
 RCNN
 https://towardsdatascience.com/r-cnn-fast-r-cnn-faster-r-cnn-yolo-object-detection-algorithms-36d53571365e
+
+
+
+
+Esses Notebooks tem algo importante
+https://www.kaggle.com/ffyyytt/covid-19-normal-classification (esse criou um metodo para salvar o melhor modelo)
+
+
+Esse aqui foi feito com a ideia de comparar as redes pre treinadas
+https://www.kaggle.com/amitbiswas/detection-of-covid-19-using-chest-x-ray
