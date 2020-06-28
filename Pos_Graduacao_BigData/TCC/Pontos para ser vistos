@@ -1,20 +1,14 @@
 
 
  1) Com base no que tenho (fazer uma rede neural  binária) Covid ou não covid (corrigido)
- 2) Contextualizar melhor a introdução, dar corpo ao artigo  contextualizar de como está no mundo e como está no brasil
- 3) Disponibilizar uma imagem com covid e sem covid na introdução ( de acordo com fulano ) está e uma imagem com e essa e uma sem 
+ 2) Contextualizar melhor a introdução, dar corpo ao artigo  contextualizar de como está no mundo e como está no brasil( feito)
+ 
+ 3) Disponibilizar uma imagem com covid e sem covid na introdução ( de acordo com fulano )
+ está e uma imagem com e essa e uma sem (colocado uma imagem com covid e a progressão da doença)
  
  
- 4) Disponibilizar as imagens com covid e sem covid no na parte do crisp-dm
- 
- 4)na parte de resultado baseado(em todos os resultados , o melhor modelo foi esse daqui).
- 
- 5) Os meus primeiros testes foram basedos no artigo 
- https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
- 
- 
- 6) na introdução , colocar o custo do raio-x na rede publica  em comparativo com a TC (isso na introdução)
- mostra o quanto o trabalho é barato 
+ 4) na introdução , colocar o custo do raio-x na rede publica  em comparativo com a TC (isso na introdução)
+ mostra o quanto o trabalho é barato  (feito)
  
  7) inverter a ordem do 2 e 3 , começar falando sobre os trabalhos referenciais (colocando os artigos de grande relevancia)
  
@@ -23,6 +17,11 @@
  10) investigar no final do artigo , que nos trabalhos futuros a possibilidade do uso do r-cnn para melhorar a performace.
  
  
-config_VGG16
-config_Xception 
-config_ResNet101
+O uso de técnicas computacionais possibilita detectar estruturas e padrões em torno dos dados, impulsionando este processo e auxiliando ou confirmando o diagnóstico.
+
+4) Disponibilizar as imagens com covid e sem covid no na parte do crisp-dm
+ 
+ 4)na parte de resultado baseado(em todos os resultados , o melhor modelo foi esse daqui).
+ 
+ 5) Os meus primeiros testes foram basedos no artigo 
+ https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
