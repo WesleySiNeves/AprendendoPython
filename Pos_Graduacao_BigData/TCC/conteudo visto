@@ -1,11 +1,44 @@
 
+Tecnicas no Artigo
+
+Sobre CrispDM
+https://paulovasconcellos.com.br/crisp-dm-semma-e-kdd-conhe%C3%A7a-as-melhores-t%C3%A9cnicas-para-explora%C3%A7%C3%A3o-de-dados-560d294547d2
+
+
+Tranfer Learning:
+https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a
+https://machinelearningmastery.com/how-to-use-transfer-learning-when-developing-convolutional-neural-network-models/
+http://ww2.inf.ufg.br/~anderson/deeplearning/20181/Convolucionais%20parte%20II%20-%20Slides%20-%20VGG%20Inception%20GoogleNet%20Resnet%20DenseNet%20Highway.pdf
+https://medium.com/analytics-vidhya/transfer-learning-with-keras-9a1b3253211c
+https://www.kaggle.com/rajmehra03/a-comprehensive-guide-to-transfer-learning
+
+
+Data Augmentation: 
+https://medium.com/mlait/image-data-augmentation-image-processing-in-tensorflow-part-2-b77237256df0
+https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/
+https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844
+
+
+
+Mapsas de Ativação:
+https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/
+https://towardsdatascience.com/detection-of-covid-19-presence-from-chest-x-ray-scans-using-cnn-class-activation-maps-c1ab0d7c294b
+
+
+Calbacks
+ModelCheckpoint :https://medium.com/@italojs/saving-your-weights-for-each-epoch-keras-callbacks-b494d9648202
+https://machinelearningmastery.com/check-point-deep-learning-models-keras/
+https://machinelearningmastery.com/how-to-stop-training-deep-neural-networks-at-the-right-time-using-early-stopping/
 
 
 Trabalhos Sobre Covid 19:
+http://www.pucrs.br/en/blog/how-x-rays-and-ct-scans-can-help-assess-severity-of-covid-19/
 https://josephpcohen.com/w/public-covid19-dataset/
 https://www.jornaldepneumologia.com.br/detalhe_artigo.asp?id=3333
 https://www.sanarmed.com/covid-19-e-o-uso-racional-dos-exames-de-imagem-colunistas
 https://www.paho.org/bra/index.php?option=com_content&view=article&id=6101:covid19&Itemid=875
+https://towardsdatascience.com/covid-cxr-an-open-source-explainable-deep-cnn-model-for-predicting-the-presence-of-covid-19-in-75a83b26cab5
+http://www.pucrs.br/en/blog/how-x-rays-and-ct-scans-can-help-assess-severity-of-covid-19/
 
 
 
@@ -46,30 +79,8 @@ https://medium.com/@hbjenssen/covid-19-radiology-data-collection-and-preparation
 https://towardsdatascience.com/detection-of-covid-19-presence-from-chest-x-ray-scans-using-cnn-class-activation-maps-c1ab0d7c294b
 https://towardsdatascience.com/investigation-of-explainable-predictions-of-covid-19-infection-from-chest-x-rays-with-machine-cb370f46af1d
 
-(Mapas de ativação )
-Transfer Learning
-http://ww2.inf.ufg.br/~anderson/deeplearning/20181/Convolucionais%20parte%20II%20-%20Slides%20-%20VGG%20Inception%20GoogleNet%20Resnet%20DenseNet%20Highway.pdf
-https://medium.com/analytics-vidhya/transfer-learning-with-keras-9a1b3253211c
-https://www.kaggle.com/rajmehra03/a-comprehensive-guide-to-transfer-learning
 
 
-# temos que assistir a aula de explicação de 
-binary_crossentropy : canal sandeco
-
-
-Sobre CrispDM
-https://paulovasconcellos.com.br/crisp-dm-semma-e-kdd-conhe%C3%A7a-as-melhores-t%C3%A9cnicas-para-explora%C3%A7%C3%A3o-de-dados-560d294547d2
-
-Tecnicas no Artigo
-Data Augmentation: 
-https://medium.com/mlait/image-data-augmentation-image-processing-in-tensorflow-part-2-b77237256df0
-https://www.pyimagesearch.com/2019/07/08/keras-imagedatagenerator-and-data-augmentation/
-https://towardsdatascience.com/exploring-image-data-augmentation-with-keras-and-tensorflow-a8162d89b844
-
-
-Mapsas de Ativação :
-https://www.pyimagesearch.com/2020/03/09/grad-cam-visualize-class-activation-maps-with-keras-tensorflow-and-deep-learning/
-https://towardsdatascience.com/detection-of-covid-19-presence-from-chest-x-ray-scans-using-cnn-class-activation-maps-c1ab0d7c294b
 
 Banco de dados do MIT imagens de Covid
 https://www.technologyreview.com/2020/03/24/950356/coronavirus-neural-network-can-help-spot-covid-19-in-chest-x-ray-pneumonia/

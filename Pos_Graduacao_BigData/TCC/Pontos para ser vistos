@@ -10,18 +10,17 @@
  4) na introdução , colocar o custo do raio-x na rede publica  em comparativo com a TC (isso na introdução)
  mostra o quanto o trabalho é barato  (feito)
  
- 7) inverter a ordem do 2 e 3 , começar falando sobre os trabalhos referenciais (colocando os artigos de grande relevancia)
+ 7) inverter a ordem do 2 e 3 , começar falando sobre os trabalhos referenciais (colocando os artigos de grande relevancia)(feito)
  
- 9)(intrudução) escrever sobre a dificuldade  de  encontrar as imagens com covid
+ 9)(introdução) escrever sobre a dificuldade  de  encontrar as imagens com covid (ainda não )
  
  10) investigar no final do artigo , que nos trabalhos futuros a possibilidade do uso do r-cnn para melhorar a performace.
  
  
-O uso de técnicas computacionais possibilita detectar estruturas e padrões em torno dos dados, impulsionando este processo e auxiliando ou confirmando o diagnóstico.
-
 4) Disponibilizar as imagens com covid e sem covid no na parte do crisp-dm
  
  4)na parte de resultado baseado(em todos os resultados , o melhor modelo foi esse daqui).
  
- 5) Os meus primeiros testes foram basedos no artigo 
- https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
+ 
+ 
+ 
