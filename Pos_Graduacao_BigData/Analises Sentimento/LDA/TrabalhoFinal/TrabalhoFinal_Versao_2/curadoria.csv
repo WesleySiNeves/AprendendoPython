@@ -1,351 +1,321 @@
-,Titulo,Tamanho,Bom,Nao_Bom,Ruim,Nao_Ruim,Comida,Atendimento,Preço,Lugar,Outros
-0,Ótimo Restaurante/Café,22,0,0,0,0,0,0,0,0,0
-1,Melhor açai de brasília!!,25,0,0,0,0,0,0,0,0,0
-2,Avaliação Loja de Águas Claras,30,0,0,0,0,0,0,0,0,0
-3,Boa programação musical,23,0,0,0,0,0,0,0,0,0
-4,Bom para curtir uma feijoada.,29,0,0,0,0,0,0,0,0,0
-5,Cerveja gelada e ótima música,29,0,0,0,0,0,0,0,0,0
-6,Cerveja gelada  noite quente,28,0,0,0,0,0,0,0,0,0
-7,Brownie e cafés perfeitos ,26,0,0,0,0,0,0,0,0,0
-8,Melhor gastropub de Brasília,28,0,0,0,0,0,0,0,0,0
-9,Vale a pena conhecer!,21,0,0,0,0,0,0,0,0,0
-10,Queijos produzidos no Brasil ,29,0,0,0,0,0,0,0,0,0
-11,Bom  diferente e caro,21,0,0,0,0,0,0,0,0,0
-12,Perfeição em forma de doce,26,0,0,0,0,0,0,0,0,0
-13,Melhor bolo de chocolate,24,0,0,0,0,0,0,0,0,0
-14,Bom café e ótimo atendimento,28,0,0,0,0,0,0,0,0,0
-15,Muito bom para um café,22,0,0,0,0,0,0,0,0,0
-16,Ótimas opções e bom atendimento,31,0,0,0,0,0,0,0,0,0
-17,Excelente para um fim de tarde...,33,0,0,0,0,0,0,0,0,0
-18,Um ótimo lugar no Sudoeste,26,0,0,0,0,0,0,0,0,0
-19,Local muito agradável e boa comida,34,0,0,0,0,0,0,0,0,0
-20,Boa opção do Sudoeste,21,0,0,0,0,0,0,0,0,0
-21,Melhor croissant de Brasília,28,0,0,0,0,0,0,0,0,0
-22,Croissant maravilhoso,21,0,0,0,0,0,0,0,0,0
-23,Preço justo comida de qualidade ,32,0,0,0,0,0,0,0,0,0
-24,Grande variedade e saboroso!,28,0,0,0,0,0,0,0,0,0
-25,Excelente comida!!!!!,21,0,0,0,0,0,0,0,0,0
-26,Excelente comida e atendimento. ,32,0,0,0,0,0,0,0,0,0
-27,Melhor opção no Sudoeste!!!,27,0,0,0,0,0,0,0,0,0
-28,O melhor self service de Brasilia,33,0,0,0,0,0,0,0,0,0
-29,Alto nível e descolado!,23,0,0,0,0,0,0,0,0,0
-30,Para motociclistas ou não!,26,0,0,0,0,0,0,0,0,0
-31,Gosta de Moto e Rock ?,22,0,0,0,0,0,0,0,0,0
-32,Muita opção de salada,21,0,0,0,0,0,0,0,0,0
-33,Comida muito boa  mas cara...,29,0,0,0,0,0,0,0,0,0
-34,comida goiana muito boa...,26,0,0,0,0,0,0,0,0,0
-35,Self Service incrível!!!,24,0,0,0,0,0,0,0,0,0
-36,Música ao vivo e bons petiscos,30,0,0,0,0,0,0,0,0,0
-37,Um dos melhores bares de Brasília,33,0,0,0,0,0,0,0,0,0
-38,Muito animado comida boa,24,0,0,0,0,0,0,0,0,0
-39,Ótima opção no sudoeste,23,0,0,0,0,0,0,0,0,0
-40,Ponto forte no atendimento,26,0,0,0,0,0,0,0,0,0
-41,Cervejas e petiscos Abençoados!,31,0,0,0,0,0,0,0,0,0
-42,Confortável para passar o tempo,31,0,0,0,0,0,0,0,0,0
-43,Boa opção para um aeroporto ,28,0,0,0,0,0,0,0,0,0
-44,Ótima opção no aeroporto!!,26,0,0,0,0,0,0,0,0,0
-45,Ótima opção no aeroporto,24,0,0,0,0,0,0,0,0,0
-46,Bar para todas as tribos,24,0,0,0,0,0,0,0,0,0
-47,Despretensioso e agradável ,27,0,0,0,0,0,0,0,0,0
-48,Ótima opção de self service,27,0,0,0,0,0,0,0,0,0
-49,Comida variada e muito gostosa,30,0,0,0,0,0,0,0,0,0
-50,Comida variada em bom ambiente.,31,0,0,0,0,0,0,0,0,0
-51,Aqui sempre é boa escolha,25,0,0,0,0,0,0,0,0,0
-52,Atendimento horrível ,21,0,0,0,0,0,0,0,0,0
-53,Preço bom com comida bem servida!,33,0,0,0,0,0,0,0,0,0
-54,caiu demais a qualidade,23,0,0,0,0,0,0,0,0,0
-55,Melhor galeto para levar para casa,34,0,0,0,0,0,0,0,0,0
-56,Cafeteria e restaurante simpático,33,0,0,0,0,0,0,0,0,0
-57,Comida gostosa a preço atrativo,31,0,0,0,0,0,0,0,0,0
-58,Caro para o que oferece,23,0,0,0,0,0,0,0,0,0
-59,Deixa muito a desejar,21,0,0,0,0,0,0,0,0,0
-60,Boa comida  péssimo serviço,27,0,0,0,0,0,0,0,0,0
-61,Sempre muito bom!! RECOMENDO! ,30,0,0,0,0,0,0,0,0,0
-62,Restaurantes frutos do mar.,27,0,0,0,0,0,0,0,0,0
-63,Peixada honesta e farta,23,0,0,0,0,0,0,0,0,0
-64,Comida gostosa  casa confusa,28,0,0,0,0,0,0,0,0,0
-65,Acarajé para baianos saudosos,29,0,0,0,0,0,0,0,0,0
-66,Lugar simples. Comida muito boa,31,0,0,0,0,0,0,0,0,0
-67,Bom preço  ótima comida,23,0,0,0,0,0,0,0,0,0
-68,Novidade boa na cidade!,23,0,0,0,0,0,0,0,0,0
-69,Você precisa conhecer Melbourne,31,0,0,0,0,0,0,0,0,0
-70,Muito saboroso  um pouco caro.,30,0,0,0,0,0,0,0,0,0
-71,Péssimo treinamento dado a garçons,34,0,0,0,0,0,0,0,0,0
-72,Descontraído e alegre,21,0,0,0,0,0,0,0,0,0
-73,Prato Feito super digno,23,0,0,0,0,0,0,0,0,0
-74,""" Tem outras opções bem melhores """,34,0,0,0,0,0,0,0,0,0
-75,Opção de almoço bom e barato,28,0,0,0,0,0,0,0,0,0
-76,Melhor Costela do Distrito Federal,34,0,0,0,0,0,0,0,0,0
-77,Excelente churrasco gaúcho,26,0,0,0,0,0,0,0,0,0
-78,Prático  saudável e delicioso!,30,0,0,0,0,0,0,0,0,0
-79,Gostoso  leve e prático!,24,0,0,0,0,0,0,0,0,0
-80,Melhor refeição congelada!!!,28,0,0,0,0,0,0,0,0,0
-81,Ótima forma de alimenta-se bem,30,0,0,0,0,0,0,0,0,0
-82,Comida boa  preço não,21,0,0,0,0,0,0,0,0,0
-83,Atendimento de primeira,23,0,0,0,0,0,0,0,0,0
-84,Tapioca boa e atendimento demorado,34,0,0,0,0,0,0,0,0,0
-85,Ótimo atendimento  tapioca boa!,31,0,0,0,0,0,0,0,0,0
-86,Vale à pena conferir!,21,0,0,0,0,0,0,0,0,0
-87,Sobremesas deliciosas,21,0,0,0,0,0,0,0,0,0
-88,Bom para Pf e cerveja ,22,0,0,0,0,0,0,0,0,0
-89,Lugar simples e agradável ,26,0,0,0,0,0,0,0,0,0
-90,Melhor Acarajé de Brasília!,27,0,0,0,0,0,0,0,0,0
-91,Comida di Buteco 2015,21,0,0,0,0,0,0,0,0,0
-92,Local agradável  (- atendimento ),33,0,0,0,0,0,0,0,0,0
-93,Não atendeu a expectativa,25,0,0,0,0,0,0,0,0,0
-94,Ótimo atendimento e comida,26,0,0,0,0,0,0,0,0,0
-95,Um dos melhores de BSB!!,24,0,0,0,0,0,0,0,0,0
-96,Atendimento Acolhedor,21,0,0,0,0,0,0,0,0,0
-97,Entrega o que promete... empada.,32,0,0,0,0,0,0,0,0,0
-98,Restaurante do dia-a-dia!,25,0,0,0,0,0,0,0,0,0
-99,Almoço de sexta durante expediente,34,0,0,0,0,0,0,0,0,0
-100,Boa opção e localização,23,0,0,0,0,0,0,0,0,0
-101,Ótimo custo benefício,21,0,0,0,0,0,0,0,0,0
-102,COMIDA GOSTOSA  PREÇO HONESTO! :),33,0,0,0,0,0,0,0,0,0
-103,pão de queijo sempre faz sucesso,32,0,0,0,0,0,0,0,0,0
-104,Excelente pão de queijo,23,0,0,0,0,0,0,0,0,0
-105,Ótimo Custo Benefício,21,0,0,0,0,0,0,0,0,0
-106,Idêntico ao italiano!,21,0,0,0,0,0,0,0,0,0
-107,Simples mas delicioso,21,0,0,0,0,0,0,0,0,0
-108,Cerveja com os amigos,21,0,0,0,0,0,0,0,0,0
-109,Buteco com boas opções de petisco,33,0,0,0,0,0,0,0,0,0
-110,Bons sushis  preço justo,24,0,0,0,0,0,0,0,0,0
-111,Novo cardápio está ótimo!,25,0,0,0,0,0,0,0,0,0
-112,Super a desejar...uma pena,26,0,0,0,0,0,0,0,0,0
-113,Churrasco para almoço,21,0,0,0,0,0,0,0,0,0
-114,Alguns pratos estão acima da média,34,0,0,0,0,0,0,0,0,0
-115,Lugar simples  comida deliciosa!,32,0,0,0,0,0,0,0,0,0
-116,Ótima comida self service,25,0,0,0,0,0,0,0,0,0
-117,Bom restaurante a quilo,23,0,0,0,0,0,0,0,0,0
-118,Bom  mas sem encantar,21,0,0,0,0,0,0,0,0,0
-119,Tradicional e Familiar,22,0,0,0,0,0,0,0,0,0
-120,Excelente opção de almoço,25,0,0,0,0,0,0,0,0,0
-121,Bom ambiente e bem caro,23,0,0,0,0,0,0,0,0,0
-122,Cozinha variada e certo agito,29,0,0,0,0,0,0,0,0,0
-123,Delicioso pastel de angu,24,0,0,0,0,0,0,0,0,0
-124,Bom  mas já foi melhor...,25,0,0,0,0,0,0,0,0,0
-125,Bom para o almoço diário,24,0,0,0,0,0,0,0,0,0
-126,garçom....por favor!!!!!,24,0,0,0,0,0,0,0,0,0
-127,Comida boa a preço justo,24,0,0,0,0,0,0,0,0,0
-128,Café para o meio da manhã ou tarde,34,0,0,0,0,0,0,0,0,0
-129,Precisa melhorar o antendimento,31,0,0,0,0,0,0,0,0,0
-130,o melhor café goutmet,21,0,0,0,0,0,0,0,0,0
-131,Diversificado e prático,23,0,0,0,0,0,0,0,0,0
-132,A conta ainda não veio,22,0,0,0,0,0,0,0,0,0
-133,Um bom café no Brasília Shopping,32,0,0,0,0,0,0,0,0,0
-134,Bom cafe e lanches variados,27,0,0,0,0,0,0,0,0,0
-135,Excelente restaurante fitness!,30,0,0,0,0,0,0,0,0,0
-136,A proprietaria grossa!,22,0,0,0,0,0,0,0,0,0
-137,Comida leve e saborosa!,23,0,0,0,0,0,0,0,0,0
-138,Almoço custo benefício ruim,27,0,0,0,0,0,0,0,0,0
-139,Muito boa descoberta no almoço,30,0,0,0,0,0,0,0,0,0
-140,Comida boa  atendimento nem tanto.,34,0,0,0,0,0,0,0,0,0
-141,Diferente e Ótima opção!!!,26,0,0,0,0,0,0,0,0,0
-142,Comidinha Nordestina TOP DEMAIS,31,0,0,0,0,0,0,0,0,0
-143,"Lugar como o nome diz ""vexado""",30,0,0,0,0,0,0,0,0,0
-144,Melhor filé mignon de Brasília,30,0,0,0,0,0,0,0,0,0
-145,Excelente ambiente e gastronomia ,33,0,0,0,0,0,0,0,0,0
-146,Ótima opção e com preço justo.,30,0,0,0,0,0,0,0,0,0
-147,Restaurante com boa comida,26,0,0,0,0,0,0,0,0,0
-148,A comida é uma delícia!,23,0,0,0,0,0,0,0,0,0
-149,Comida boa mas muito demorado,29,0,0,0,0,0,0,0,0,0
-150,Sanduichinhos e sanduichões,27,0,0,0,0,0,0,0,0,0
-151,O Verdadeiro X-Gaúcho,21,0,0,0,0,0,0,0,0,0
-152,Sanduíches deliciosos!!!,24,0,0,0,0,0,0,0,0,0
-153,Boa pedida sanduiches diferentes,32,0,0,0,0,0,0,0,0,0
-154,Comida caseira e gostosa,24,0,0,0,0,0,0,0,0,0
-155,Destaque para os milkshakes,27,0,0,0,0,0,0,0,0,0
-156,Gerente comeu meu pedido!!!,27,0,0,0,0,0,0,0,0,0
-157,Hambúrguer Delicioso! ,22,0,0,0,0,0,0,0,0,0
-158,Ótima comida e atendimento!!!,29,0,0,0,0,0,0,0,0,0
-159,Comida caseira e gostosa!,25,0,0,0,0,0,0,0,0,0
-160,Comida Caseira a quilo,22,0,0,0,0,0,0,0,0,0
-161,Comida caseira na hora do almoço,32,0,0,0,0,0,0,0,0,0
-162,Melhor self-service do Guará ,29,0,0,0,0,0,0,0,0,0
-163,Acompanhamentos perfeitos,25,0,0,0,0,0,0,0,0,0
-164,Diferente e excelente,21,0,0,0,0,0,0,0,0,0
-165,Não é um almoço  é um investimento,34,0,0,0,0,0,0,0,0,0
-166,Comida e serviço sofríveis,26,0,0,0,0,0,0,0,0,0
-167,Melhor custo-benefício,22,0,0,0,0,0,0,0,0,0
-168,Salgados gostosos e bom preço,29,0,0,0,0,0,0,0,0,0
-169,Ótimos salgados e sobremesas,28,0,0,0,0,0,0,0,0,0
-170,Cheeseburger delicioso,22,0,0,0,0,0,0,0,0,0
-171,Bom custo X benefício,21,0,0,0,0,0,0,0,0,0
-172,Sanduíches caprichados e saborosos,34,0,0,0,0,0,0,0,0,0
-173,O melhor Dog de Brasíllia!!!!,29,0,0,0,0,0,0,0,0,0
-174,Já foi um restaurante bom,25,0,0,0,0,0,0,0,0,0
-175,Bom para curtir a night,23,0,0,0,0,0,0,0,0,0
-176,JARDINS  UM OÁSIS NO SAAN,25,0,0,0,0,0,0,0,0,0
-177,Comida demorada e atendimento ruim,34,0,0,0,0,0,0,0,0,0
-178,Ambiente agradável!!!,21,0,0,0,0,0,0,0,0,0
-179,Restaurante  café  etc,22,0,0,0,0,0,0,0,0,0
-180,Excelente atendimento,21,0,0,0,0,0,0,0,0,0
-181,Pé sujo com cerveja barata,26,0,0,0,0,0,0,0,0,0
-182,Pé sujo com cerveja barata,26,0,0,0,0,0,0,0,0,0
-183,Amo a parmegiana que eles fazem,31,0,0,0,0,0,0,0,0,0
-184,Bom atendimento e preço justo,29,0,0,0,0,0,0,0,0,0
-185,Boa opção para almoço,21,0,0,0,0,0,0,0,0,0
-186,Brownie de todo jeito,21,0,0,0,0,0,0,0,0,0
-187,Melhor loja de doces em Brasília ,33,0,0,0,0,0,0,0,0,0
-188,Não tinha a sobremesa principal ,32,0,0,0,0,0,0,0,0,0
-189,Um restaurante sofisticado,26,0,0,0,0,0,0,0,0,0
-190,Boa opção para o almoço ,24,0,0,0,0,0,0,0,0,0
-191,Sabor e apresentação ,21,0,0,0,0,0,0,0,0,0
-192,Comida da roca - mineira,24,0,0,0,0,0,0,0,0,0
-193,Chopp agradável no fim de noite,31,0,0,0,0,0,0,0,0,0
-194,Podia ser muito mlhor,21,0,0,0,0,0,0,0,0,0
-195,Cervejaria com uma extensa carta,32,0,0,0,0,0,0,0,0,0
-196,Bom para aniversários,21,0,0,0,0,0,0,0,0,0
-197,Boa comida  atendimento razoável,32,0,0,0,0,0,0,0,0,0
-198,Rodízio de petiscos e de cerveja,32,0,0,0,0,0,0,0,0,0
-199,Bom pra comer e beber muito,27,0,0,0,0,0,0,0,0,0
-200,Boa opção de bar em Brasília,28,0,0,0,0,0,0,0,0,0
-201, Bom custo benefício !,22,0,0,0,0,0,0,0,0,0
-202,Comida e atendimento ótimos ,28,0,0,0,0,0,0,0,0,0
-203,Atendimento TENEBROSO!!!☠️,26,0,0,0,0,0,0,0,0,0
-204,Ainda estou esperando meu ice tea,33,0,0,0,0,0,0,0,0,0
-205,Delicioso e com um preço muito bom,34,0,0,0,0,0,0,0,0,0
-206,Excelente custo benefício ,26,0,0,0,0,0,0,0,0,0
-207,Cardápio bem variado ,21,0,0,0,0,0,0,0,0,0
-208,Supermercado Pão Dourado,24,0,0,0,0,0,0,0,0,0
-209,Boas opções pra todas as horas,30,0,0,0,0,0,0,0,0,0
-210,Atendimento fraco e muitas moscas,33,0,0,0,0,0,0,0,0,0
-211,Uma das melhores de Brasília,28,0,0,0,0,0,0,0,0,0
-212,Padaria com toque de restaurante,32,0,0,0,0,0,0,0,0,0
-213,Perfeito para toda família ,27,0,0,0,0,0,0,0,0,0
-214,NOTA MÁXIMA!! 👏🏼👏🏼👏🏼👏🏼,22,0,0,0,0,0,0,0,0,0
-215,Ótima pedida no almoço,22,0,0,0,0,0,0,0,0,0
-216,Nao dei nota 0 pois não tem como.,33,0,0,0,0,0,0,0,0,0
-217,Que atendimento maluco!!!,25,0,0,0,0,0,0,0,0,0
-218,Pra beber com os amigos,23,0,0,0,0,0,0,0,0,0
-219,Comida fria e carne queimada,28,0,0,0,0,0,0,0,0,0
-220,Agradável e com bom atendimento,31,0,0,0,0,0,0,0,0,0
-221,Não vejo motivos para voltar.,29,0,0,0,0,0,0,0,0,0
-222,Demorou muito meu pedido ,25,0,0,0,0,0,0,0,0,0
-223,Happy hour de domingo...,24,0,0,0,0,0,0,0,0,0
-224,Bons petiscos a um bom preço,28,0,0,0,0,0,0,0,0,0
-225,À procura de happy hour???,26,0,0,0,0,0,0,0,0,0
-226,Almoço de dia das Mães ,23,0,0,0,0,0,0,0,0,0
-227,Gostei do suco de morango,25,0,0,0,0,0,0,0,0,0
-228,Melhor Bife a Parmegiana,24,0,0,0,0,0,0,0,0,0
-229,Promoção todos os dias,22,0,0,0,0,0,0,0,0,0
-230,Rodízio de Parmegiana ,22,0,0,0,0,0,0,0,0,0
-231,Boa opção no almoço e happy hour,32,0,0,0,0,0,0,0,0,0
-232,Ótima opção de happy hour,25,0,0,0,0,0,0,0,0,0
-233,comida e atendimento muito boa,30,0,0,0,0,0,0,0,0,0
-234,Preço bom no happy hour,23,0,0,0,0,0,0,0,0,0
-235,Simplicidade com qualidade,26,0,0,0,0,0,0,0,0,0
-236,Alecrim Brasilia Teatro Nacional,32,0,0,0,0,0,0,0,0,0
-237,Banana com Presunto e Queijo,28,0,0,0,0,0,0,0,0,0
-238,"""Produtos de dar água na boca""",30,0,0,0,0,0,0,0,0,0
-239,Atendimento Lamentável!!,24,0,0,0,0,0,0,0,0,0
-240,Delivery Rápido  hambúrguer normal,34,0,0,0,0,0,0,0,0,0
-241,Rápido  barato e eficiente,26,0,0,0,0,0,0,0,0,0
-242,Atendimento pode melhorar,25,0,0,0,0,0,0,0,0,0
-243,Quebra-galho da night como sempre!,34,0,0,0,0,0,0,0,0,0
-244,Comida árabe e barata,21,0,0,0,0,0,0,0,0,0
-245,Comida saudável saborosa,24,0,0,0,0,0,0,0,0,0
-246,ótima opção de comida a quilo,29,0,0,0,0,0,0,0,0,0
-247,Comer bem no dia-a-dia,22,0,0,0,0,0,0,0,0,0
-248,Simples mais com boa comida,27,0,0,0,0,0,0,0,0,0
-249,Comida gostosa e em conta,25,0,0,0,0,0,0,0,0,0
-250,Cardápio variado e em conta,27,0,0,0,0,0,0,0,0,0
-251,Cardápio diferenciado,21,0,0,0,0,0,0,0,0,0
-252,carne de sol e feijão verde,27,0,0,0,0,0,0,0,0,0
-253,Comida cara e de má qualidade.,30,0,0,0,0,0,0,0,0,0
-254,Arroz e tomate com tomate seco,30,0,0,0,0,0,0,0,0,0
-255,ótimo custo beneficio!,22,0,0,0,0,0,0,0,0,0
-256,Delícia em forma de crepe,25,0,0,0,0,0,0,0,0,0
-257,Nada de impressionante!,23,0,0,0,0,0,0,0,0,0
-258,Custo beneficio sofrível ,25,0,0,0,0,0,0,0,0,0
-259,Boas opções gastronômicas,25,0,0,0,0,0,0,0,0,0
-260,Fila de espera inexistente ,27,0,0,0,0,0,0,0,0,0
-261,Excelentes: a qualidade e preço.,32,0,0,0,0,0,0,0,0,0
-262,Preço honesto e proteína saudável ,34,0,0,0,0,0,0,0,0,0
-263,A melhor Feijoada da Asa Norte,30,0,0,0,0,0,0,0,0,0
-264,Comida típica nordestina,24,0,0,0,0,0,0,0,0,0
-265,Bom para um café da manhã farto,31,0,0,0,0,0,0,0,0,0
-266,Boa comida e atendimento fraco,30,0,0,0,0,0,0,0,0,0
-267,Caiu muito a qualidade,22,0,0,0,0,0,0,0,0,0
-268,ambiente diferenciado,21,0,0,0,0,0,0,0,0,0
-269,Boa comida  excelente atendimento!,34,0,0,0,0,0,0,0,0,0
-270,Para todo tipo de gosto,23,0,0,0,0,0,0,0,0,0
-271,Rodízio a noite - boa opção,27,0,0,0,0,0,0,0,0,0
-272,Grosseria e enganação,21,0,0,0,0,0,0,0,0,0
-273,Comida boa  ambiente agradável,30,0,0,0,0,0,0,0,0,0
-274,Opção muito boa para o dia a dia,32,0,0,0,0,0,0,0,0,0
-275,Salvação na madrugada,21,0,0,0,0,0,0,0,0,0
-276,Café da manhã muito fraco!!,27,0,0,0,0,0,0,0,0,0
-277,Escondidinho mas gostosinho ,28,0,0,0,0,0,0,0,0,0
-278,Melhor cuscuz de Brasília,25,0,0,0,0,0,0,0,0,0
-279,Boa comida e preço justo,24,0,0,0,0,0,0,0,0,0
-280,Comida elaborada e lua cheia,28,0,0,0,0,0,0,0,0,0
-281,Comer bem gastando pouco,24,0,0,0,0,0,0,0,0,0
-282,Melhor açai que já tomei na vida ,33,0,0,0,0,0,0,0,0,0
-283,Açaí Natural e Delicioso,24,0,0,0,0,0,0,0,0,0
-284,Melhor Açaí da Capital,22,0,0,0,0,0,0,0,0,0
-285,Destaque para os bolos da casa,30,0,0,0,0,0,0,0,0,0
-286,Um agradável achado. ,21,0,0,0,0,0,0,0,0,0
-287,Um bom lugar par se tomar um café,33,0,0,0,0,0,0,0,0,0
-288,Excelente atendimento,21,0,0,0,0,0,0,0,0,0
-289,Almoço de Sexta com os Amigos,29,0,0,0,0,0,0,0,0,0
-290,Normal como todo Giraffas,25,0,0,0,0,0,0,0,0,0
-291,gosto muito do sanduiche deles,30,0,0,0,0,0,0,0,0,0
-292,Melhor rotisseria de Brasília,29,0,0,0,0,0,0,0,0,0
-293,Comida com gosto de casa!,25,0,0,0,0,0,0,0,0,0
-294,Não há nada igual em Brasília,29,0,0,0,0,0,0,0,0,0
-295,Estabelecimento não existe mais,31,0,0,0,0,0,0,0,0,0
-296,Muito caro para o que oferece,29,0,0,0,0,0,0,0,0,0
-297,Comidinha caseira do dia-a-dia,30,0,0,0,0,0,0,0,0,0
-298,Hambúrguer muito gostoso,24,0,0,0,0,0,0,0,0,0
-299,Boa pedida para o fds ...,25,0,0,0,0,0,0,0,0,0
-300,Narguilé muito bem executado! ,30,0,0,0,0,0,0,0,0,0
-301,Não cheguei nem a ser atendida,30,0,0,0,0,0,0,0,0,0
-302,Bem diferente e recomendavel,28,0,0,0,0,0,0,0,0,0
-303,Qualidade e bom preço,21,0,0,0,0,0,0,0,0,0
-304,Melhor Acarajé de Brasília,26,0,0,0,0,0,0,0,0,0
-305,Cardápio diferenciado,21,0,0,0,0,0,0,0,0,0
-306,Ambiente muito agradável,24,0,0,0,0,0,0,0,0,0
-307,Alimentação deliciosa,21,0,0,0,0,0,0,0,0,0
-308,Ótima pedida  mas com ressalvas.,32,0,0,0,0,0,0,0,0,0
-309,Comida excelente a preço justo,30,0,0,0,0,0,0,0,0,0
-310,Ambiente sem frescuras,22,0,0,0,0,0,0,0,0,0
-311,Mais de 20 anos de tradição,27,0,0,0,0,0,0,0,0,0
-312,Opção de Menu Executivo,23,0,0,0,0,0,0,0,0,0
-313,Ótimo custo benefício,21,0,0,0,0,0,0,0,0,0
-314,Cachorro quente gourmet,23,0,0,0,0,0,0,0,0,0
-315,Agradável mudança de planos,27,0,0,0,0,0,0,0,0,0
-316,Delícia de Café e atendimento,29,0,0,0,0,0,0,0,0,0
-317,Restaurante maravilhoso,23,0,0,0,0,0,0,0,0,0
-318,Pizza muito fina e oleosa.,26,0,0,0,0,0,0,0,0,0
-319,Balada boa  diversão garantida ,31,0,0,0,0,0,0,0,0,0
-320,Não sei nem se abriu de verdade ,32,0,0,0,0,0,0,0,0,0
-321,Expectativa não atendida ,25,0,0,0,0,0,0,0,0,0
-322,Tem muito pra melhorar! ,24,0,0,0,0,0,0,0,0,0
-323,A temática Impressiona,22,0,0,0,0,0,0,0,0,0
-324,Excelente café da manhã ,24,0,0,0,0,0,0,0,0,0
-325,Pratos de camarão todo dia!,27,0,0,0,0,0,0,0,0,0
-326,Boa opção perto do Hotel MM,27,0,0,0,0,0,0,0,0,0
-327,Comida Paraense sem muito sabor,31,0,0,0,0,0,0,0,0,0
-328,Culinária paraense de primeira!,31,0,0,0,0,0,0,0,0,0
-329,Cuidado com a cobrança !,24,0,0,0,0,0,0,0,0,0
-330,Demorado e comida ruim,22,0,0,0,0,0,0,0,0,0
-331,"""Carne de sol do sertão?""",25,0,0,0,0,0,0,0,0,0
-332,Comemorar aniversário!,22,0,0,0,0,0,0,0,0,0
-333,Pratos caros  mas muito bons,28,0,0,0,0,0,0,0,0,0
-334,Excelente e descontraído. ,26,0,0,0,0,0,0,0,0,0
-335,Vai no bolinho de bacalhau,26,0,0,0,0,0,0,0,0,0
-336,Bom mas com certeza irá melhorar,32,0,0,0,0,0,0,0,0,0
-337,Pastel com caldo de cana,24,0,0,0,0,0,0,0,0,0
-338,Tem que melhorar MUITO,22,0,0,0,0,0,0,0,0,0
-339,Tá difícil prestigiar...,24,0,0,0,0,0,0,0,0,0
-340,Ambiente bacana e comida boa!,29,0,0,0,0,0,0,0,0,0
-341,Um galeto mal passado  por favor,32,0,0,0,0,0,0,0,0,0
-342,Não é o que se espera.,22,0,0,0,0,0,0,0,0,0
-343,Funcionarios despreparados,26,0,0,0,0,0,0,0,0,0
-344,Perfeito para um lanche rápido,30,0,0,0,0,0,0,0,0,0
-345,Excelente atendimento,21,0,0,0,0,0,0,0,0,0
-346,Rodízio de pizza e buffet ,26,0,0,0,0,0,0,0,0,0
-347,Condiz com o preço ...,22,0,0,0,0,0,0,0,0,0
-348,Boa comida! Garçons atrapalhados!,33,0,0,0,0,0,0,0,0,0
-349,Franccino maravilhoso ,22,0,0,0,0,0,0,0,0,0
+,Titulo,Bom,Nao_Bom,Ruim,Nao_Ruim,Comida,Atendimento,Preço,Lugar,Outros,Tamanho
+0,Para motociclistas ou não!,0,0,0,0,0,0,0,0,0,26
+1,Gosta de Moto e Rock ?,0,0,0,0,0,0,0,0,0,22
+2,Muita opção de salada,0,0,0,0,0,0,0,0,0,21
+3,Comida muito boa  mas cara...,0,0,0,0,0,0,0,0,0,29
+4,comida goiana muito boa...,0,0,0,0,0,0,0,0,0,26
+5,Self Service incrível!!!,0,0,0,0,0,0,0,0,0,24
+6,Música ao vivo e bons petiscos,0,0,0,0,0,0,0,0,0,30
+7,Um dos melhores bares de Brasília,0,0,0,0,0,0,0,0,0,33
+8,Muito animado comida boa,0,0,0,0,0,0,0,0,0,24
+9,Ótima opção no sudoeste,0,0,0,0,0,0,0,0,0,23
+10,Ponto forte no atendimento,0,0,0,0,0,0,0,0,0,26
+11,Cervejas e petiscos Abençoados!,0,0,0,0,0,0,0,0,0,31
+12,Confortável para passar o tempo,0,0,0,0,0,0,0,0,0,31
+13,Boa opção para um aeroporto ,0,0,0,0,0,0,0,0,0,28
+14,Ótima opção no aeroporto!!,0,0,0,0,0,0,0,0,0,26
+15,Ótima opção no aeroporto,0,0,0,0,0,0,0,0,0,24
+16,Bar para todas as tribos,0,0,0,0,0,0,0,0,0,24
+17,Despretensioso e agradável ,0,0,0,0,0,0,0,0,0,27
+18,Ótima opção de self service,0,0,0,0,0,0,0,0,0,27
+19,Comida variada e muito gostosa,0,0,0,0,0,0,0,0,0,30
+20,Comida variada em bom ambiente.,0,0,0,0,0,0,0,0,0,31
+21,Aqui sempre é boa escolha,0,0,0,0,0,0,0,0,0,25
+22,Atendimento horrível ,0,0,0,0,0,0,0,0,0,21
+23,Preço bom com comida bem servida!,0,0,0,0,0,0,0,0,0,33
+24,caiu demais a qualidade,0,0,0,0,0,0,0,0,0,23
+25,Melhor galeto para levar para casa,0,0,0,0,0,0,0,0,0,34
+26,Cafeteria e restaurante simpático,0,0,0,0,0,0,0,0,0,33
+27,Comida gostosa a preço atrativo,0,0,0,0,0,0,0,0,0,31
+28,Caro para o que oferece,0,0,0,0,0,0,0,0,0,23
+29,Deixa muito a desejar,0,0,0,0,0,0,0,0,0,21
+30,Boa comida  péssimo serviço,0,0,0,0,0,0,0,0,0,27
+31,Sempre muito bom!! RECOMENDO! ,0,0,0,0,0,0,0,0,0,30
+32,Restaurantes frutos do mar.,0,0,0,0,0,0,0,0,0,27
+33,Peixada honesta e farta,0,0,0,0,0,0,0,0,0,23
+34,Comida gostosa  casa confusa,0,0,0,0,0,0,0,0,0,28
+35,Acarajé para baianos saudosos,0,0,0,0,0,0,0,0,0,29
+36,Lugar simples. Comida muito boa,0,0,0,0,0,0,0,0,0,31
+37,Bom preço  ótima comida,0,0,0,0,0,0,0,0,0,23
+38,Novidade boa na cidade!,0,0,0,0,0,0,0,0,0,23
+39,Você precisa conhecer Melbourne,0,0,0,0,0,0,0,0,0,31
+40,Muito saboroso  um pouco caro.,0,0,0,0,0,0,0,0,0,30
+41,Péssimo treinamento dado a garçons,0,0,0,0,0,0,0,0,0,34
+42,Descontraído e alegre,0,0,0,0,0,0,0,0,0,21
+43,Prato Feito super digno,0,0,0,0,0,0,0,0,0,23
+44,""" Tem outras opções bem melhores """,0,0,0,0,0,0,0,0,0,34
+45,Opção de almoço bom e barato,0,0,0,0,0,0,0,0,0,28
+46,Melhor Costela do Distrito Federal,0,0,0,0,0,0,0,0,0,34
+47,Excelente churrasco gaúcho,0,0,0,0,0,0,0,0,0,26
+48,Prático  saudável e delicioso!,0,0,0,0,0,0,0,0,0,30
+49,Gostoso  leve e prático!,0,0,0,0,0,0,0,0,0,24
+50,Melhor refeição congelada!!!,0,0,0,0,0,0,0,0,0,28
+51,Ótima forma de alimenta-se bem,0,0,0,0,0,0,0,0,0,30
+52,Comida boa  preço não,0,0,0,0,0,0,0,0,0,21
+53,Atendimento de primeira,0,0,0,0,0,0,0,0,0,23
+54,Tapioca boa e atendimento demorado,0,0,0,0,0,0,0,0,0,34
+55,Ótimo atendimento  tapioca boa!,0,0,0,0,0,0,0,0,0,31
+56,Vale à pena conferir!,0,0,0,0,0,0,0,0,0,21
+57,Sobremesas deliciosas,0,0,0,0,0,0,0,0,0,21
+58,Bom para Pf e cerveja ,0,0,0,0,0,0,0,0,0,22
+59,Lugar simples e agradável ,0,0,0,0,0,0,0,0,0,26
+60,Melhor Acarajé de Brasília!,0,0,0,0,0,0,0,0,0,27
+61,Comida di Buteco 2015,0,0,0,0,0,0,0,0,0,21
+62,Local agradável  (- atendimento ),0,0,0,0,0,0,0,0,0,33
+63,Não atendeu a expectativa,0,0,0,0,0,0,0,0,0,25
+64,Ótimo atendimento e comida,0,0,0,0,0,0,0,0,0,26
+65,Um dos melhores de BSB!!,0,0,0,0,0,0,0,0,0,24
+66,Atendimento Acolhedor,0,0,0,0,0,0,0,0,0,21
+67,Entrega o que promete... empada.,0,0,0,0,0,0,0,0,0,32
+68,Restaurante do dia-a-dia!,0,0,0,0,0,0,0,0,0,25
+69,Almoço de sexta durante expediente,0,0,0,0,0,0,0,0,0,34
+70,Boa opção e localização,0,0,0,0,0,0,0,0,0,23
+71,Ótimo custo benefício,0,0,0,0,0,0,0,0,0,21
+72,COMIDA GOSTOSA  PREÇO HONESTO! :),0,0,0,0,0,0,0,0,0,33
+73,pão de queijo sempre faz sucesso,0,0,0,0,0,0,0,0,0,32
+74,Excelente pão de queijo,0,0,0,0,0,0,0,0,0,23
+75,Ótimo Custo Benefício,0,0,0,0,0,0,0,0,0,21
+76,Idêntico ao italiano!,0,0,0,0,0,0,0,0,0,21
+77,Simples mas delicioso,0,0,0,0,0,0,0,0,0,21
+78,Cerveja com os amigos,0,0,0,0,0,0,0,0,0,21
+79,Buteco com boas opções de petisco,0,0,0,0,0,0,0,0,0,33
+80,Bons sushis  preço justo,0,0,0,0,0,0,0,0,0,24
+81,Novo cardápio está ótimo!,0,0,0,0,0,0,0,0,0,25
+82,Super a desejar...uma pena,0,0,0,0,0,0,0,0,0,26
+83,Churrasco para almoço,0,0,0,0,0,0,0,0,0,21
+84,Alguns pratos estão acima da média,0,0,0,0,0,0,0,0,0,34
+85,Lugar simples  comida deliciosa!,0,0,0,0,0,0,0,0,0,32
+86,Ótima comida self service,0,0,0,0,0,0,0,0,0,25
+87,Bom restaurante a quilo,0,0,0,0,0,0,0,0,0,23
+88,Bom  mas sem encantar,0,0,0,0,0,0,0,0,0,21
+89,Tradicional e Familiar,0,0,0,0,0,0,0,0,0,22
+90,Excelente opção de almoço,0,0,0,0,0,0,0,0,0,25
+91,Bom ambiente e bem caro,0,0,0,0,0,0,0,0,0,23
+92,Cozinha variada e certo agito,0,0,0,0,0,0,0,0,0,29
+93,Delicioso pastel de angu,0,0,0,0,0,0,0,0,0,24
+94,Bom  mas já foi melhor...,0,0,0,0,0,0,0,0,0,25
+95,Bom para o almoço diário,0,0,0,0,0,0,0,0,0,24
+96,garçom....por favor!!!!!,0,0,0,0,0,0,0,0,0,24
+97,Comida boa a preço justo,0,0,0,0,0,0,0,0,0,24
+98,Café para o meio da manhã ou tarde,0,0,0,0,0,0,0,0,0,34
+99,Precisa melhorar o antendimento,0,0,0,0,0,0,0,0,0,31
+100,o melhor café goutmet,0,0,0,0,0,0,0,0,0,21
+101,Diversificado e prático,0,0,0,0,0,0,0,0,0,23
+102,A conta ainda não veio,0,0,0,0,0,0,0,0,0,22
+103,Um bom café no Brasília Shopping,0,0,0,0,0,0,0,0,0,32
+104,Bom cafe e lanches variados,0,0,0,0,0,0,0,0,0,27
+105,Excelente restaurante fitness!,0,0,0,0,0,0,0,0,0,30
+106,A proprietaria grossa!,0,0,0,0,0,0,0,0,0,22
+107,Comida leve e saborosa!,0,0,0,0,0,0,0,0,0,23
+108,Almoço custo benefício ruim,0,0,0,0,0,0,0,0,0,27
+109,Muito boa descoberta no almoço,0,0,0,0,0,0,0,0,0,30
+110,Comida boa  atendimento nem tanto.,0,0,0,0,0,0,0,0,0,34
+111,Diferente e Ótima opção!!!,0,0,0,0,0,0,0,0,0,26
+112,Comidinha Nordestina TOP DEMAIS,0,0,0,0,0,0,0,0,0,31
+113,"Lugar como o nome diz ""vexado""",0,0,0,0,0,0,0,0,0,30
+114,Melhor filé mignon de Brasília,0,0,0,0,0,0,0,0,0,30
+115,Excelente ambiente e gastronomia ,0,0,0,0,0,0,0,0,0,33
+116,Ótima opção e com preço justo.,0,0,0,0,0,0,0,0,0,30
+117,Restaurante com boa comida,0,0,0,0,0,0,0,0,0,26
+118,A comida é uma delícia!,0,0,0,0,0,0,0,0,0,23
+119,Comida boa mas muito demorado,0,0,0,0,0,0,0,0,0,29
+120,Sanduichinhos e sanduichões,0,0,0,0,0,0,0,0,0,27
+121,O Verdadeiro X-Gaúcho,0,0,0,0,0,0,0,0,0,21
+122,Sanduíches deliciosos!!!,0,0,0,0,0,0,0,0,0,24
+123,Boa pedida sanduiches diferentes,0,0,0,0,0,0,0,0,0,32
+124,Comida caseira e gostosa,0,0,0,0,0,0,0,0,0,24
+125,Destaque para os milkshakes,0,0,0,0,0,0,0,0,0,27
+126,Gerente comeu meu pedido!!!,0,0,0,0,0,0,0,0,0,27
+127,Hambúrguer Delicioso! ,0,0,0,0,0,0,0,0,0,22
+128,Ótima comida e atendimento!!!,0,0,0,0,0,0,0,0,0,29
+129,Comida caseira e gostosa!,0,0,0,0,0,0,0,0,0,25
+130,Comida Caseira a quilo,0,0,0,0,0,0,0,0,0,22
+131,Comida caseira na hora do almoço,0,0,0,0,0,0,0,0,0,32
+132,Melhor self-service do Guará ,0,0,0,0,0,0,0,0,0,29
+133,Acompanhamentos perfeitos,0,0,0,0,0,0,0,0,0,25
+134,Diferente e excelente,0,0,0,0,0,0,0,0,0,21
+135,Não é um almoço  é um investimento,0,0,0,0,0,0,0,0,0,34
+136,Comida e serviço sofríveis,0,0,0,0,0,0,0,0,0,26
+137,Melhor custo-benefício,0,0,0,0,0,0,0,0,0,22
+138,Salgados gostosos e bom preço,0,0,0,0,0,0,0,0,0,29
+139,Ótimos salgados e sobremesas,0,0,0,0,0,0,0,0,0,28
+140,Cheeseburger delicioso,0,0,0,0,0,0,0,0,0,22
+141,Bom custo X benefício,0,0,0,0,0,0,0,0,0,21
+142,Sanduíches caprichados e saborosos,0,0,0,0,0,0,0,0,0,34
+143,O melhor Dog de Brasíllia!!!!,0,0,0,0,0,0,0,0,0,29
+144,Já foi um restaurante bom,0,0,0,0,0,0,0,0,0,25
+145,Bom para curtir a night,0,0,0,0,0,0,0,0,0,23
+146,JARDINS  UM OÁSIS NO SAAN,0,0,0,0,0,0,0,0,0,25
+147,Comida demorada e atendimento ruim,0,0,0,0,0,0,0,0,0,34
+148,Ambiente agradável!!!,0,0,0,0,0,0,0,0,0,21
+149,Restaurante  café  etc,0,0,0,0,0,0,0,0,0,22
+150,Excelente atendimento,0,0,0,0,0,0,0,0,0,21
+151,Pé sujo com cerveja barata,0,0,0,0,0,0,0,0,0,26
+152,Pé sujo com cerveja barata,0,0,0,0,0,0,0,0,0,26
+153,Amo a parmegiana que eles fazem,0,0,0,0,0,0,0,0,0,31
+154,Bom atendimento e preço justo,0,0,0,0,0,0,0,0,0,29
+155,Boa opção para almoço,0,0,0,0,0,0,0,0,0,21
+156,Brownie de todo jeito,0,0,0,0,0,0,0,0,0,21
+157,Melhor loja de doces em Brasília ,0,0,0,0,0,0,0,0,0,33
+158,Não tinha a sobremesa principal ,0,0,0,0,0,0,0,0,0,32
+159,Um restaurante sofisticado,0,0,0,0,0,0,0,0,0,26
+160,Boa opção para o almoço ,0,0,0,0,0,0,0,0,0,24
+161,Sabor e apresentação ,0,0,0,0,0,0,0,0,0,21
+162,Comida da roca - mineira,0,0,0,0,0,0,0,0,0,24
+163,Chopp agradável no fim de noite,0,0,0,0,0,0,0,0,0,31
+164,Podia ser muito mlhor,0,0,0,0,0,0,0,0,0,21
+165,Cervejaria com uma extensa carta,0,0,0,0,0,0,0,0,0,32
+166,Bom para aniversários,0,0,0,0,0,0,0,0,0,21
+167,Boa comida  atendimento razoável,0,0,0,0,0,0,0,0,0,32
+168,Rodízio de petiscos e de cerveja,0,0,0,0,0,0,0,0,0,32
+169,Bom pra comer e beber muito,0,0,0,0,0,0,0,0,0,27
+170,Boa opção de bar em Brasília,0,0,0,0,0,0,0,0,0,28
+171, Bom custo benefício !,0,0,0,0,0,0,0,0,0,22
+172,Comida e atendimento ótimos ,0,0,0,0,0,0,0,0,0,28
+173,Atendimento TENEBROSO!!!☠️,0,0,0,0,0,0,0,0,0,26
+174,Ainda estou esperando meu ice tea,0,0,0,0,0,0,0,0,0,33
+175,Delicioso e com um preço muito bom,0,0,0,0,0,0,0,0,0,34
+176,Excelente custo benefício ,0,0,0,0,0,0,0,0,0,26
+177,Cardápio bem variado ,0,0,0,0,0,0,0,0,0,21
+178,Supermercado Pão Dourado,0,0,0,0,0,0,0,0,0,24
+179,Boas opções pra todas as horas,0,0,0,0,0,0,0,0,0,30
+180,Atendimento fraco e muitas moscas,0,0,0,0,0,0,0,0,0,33
+181,Uma das melhores de Brasília,0,0,0,0,0,0,0,0,0,28
+182,Padaria com toque de restaurante,0,0,0,0,0,0,0,0,0,32
+183,Perfeito para toda família ,0,0,0,0,0,0,0,0,0,27
+184,NOTA MÁXIMA!! 👏🏼👏🏼👏🏼👏🏼,0,0,0,0,0,0,0,0,0,22
+185,Ótima pedida no almoço,0,0,0,0,0,0,0,0,0,22
+186,Nao dei nota 0 pois não tem como.,0,0,0,0,0,0,0,0,0,33
+187,Que atendimento maluco!!!,0,0,0,0,0,0,0,0,0,25
+188,Pra beber com os amigos,0,0,0,0,0,0,0,0,0,23
+189,Comida fria e carne queimada,0,0,0,0,0,0,0,0,0,28
+190,Agradável e com bom atendimento,0,0,0,0,0,0,0,0,0,31
+191,Não vejo motivos para voltar.,0,0,0,0,0,0,0,0,0,29
+192,Demorou muito meu pedido ,0,0,0,0,0,0,0,0,0,25
+193,Happy hour de domingo...,0,0,0,0,0,0,0,0,0,24
+194,Bons petiscos a um bom preço,0,0,0,0,0,0,0,0,0,28
+195,À procura de happy hour???,0,0,0,0,0,0,0,0,0,26
+196,Almoço de dia das Mães ,0,0,0,0,0,0,0,0,0,23
+197,Gostei do suco de morango,0,0,0,0,0,0,0,0,0,25
+198,Melhor Bife a Parmegiana,0,0,0,0,0,0,0,0,0,24
+199,Promoção todos os dias,0,0,0,0,0,0,0,0,0,22
+200,Rodízio de Parmegiana ,0,0,0,0,0,0,0,0,0,22
+201,Boa opção no almoço e happy hour,0,0,0,0,0,0,0,0,0,32
+202,Ótima opção de happy hour,0,0,0,0,0,0,0,0,0,25
+203,comida e atendimento muito boa,0,0,0,0,0,0,0,0,0,30
+204,Preço bom no happy hour,0,0,0,0,0,0,0,0,0,23
+205,Simplicidade com qualidade,0,0,0,0,0,0,0,0,0,26
+206,Alecrim Brasilia Teatro Nacional,0,0,0,0,0,0,0,0,0,32
+207,Banana com Presunto e Queijo,0,0,0,0,0,0,0,0,0,28
+208,"""Produtos de dar água na boca""",0,0,0,0,0,0,0,0,0,30
+209,Atendimento Lamentável!!,0,0,0,0,0,0,0,0,0,24
+210,Delivery Rápido  hambúrguer normal,0,0,0,0,0,0,0,0,0,34
+211,Rápido  barato e eficiente,0,0,0,0,0,0,0,0,0,26
+212,Atendimento pode melhorar,0,0,0,0,0,0,0,0,0,25
+213,Quebra-galho da night como sempre!,0,0,0,0,0,0,0,0,0,34
+214,Comida árabe e barata,0,0,0,0,0,0,0,0,0,21
+215,Comida saudável saborosa,0,0,0,0,0,0,0,0,0,24
+216,ótima opção de comida a quilo,0,0,0,0,0,0,0,0,0,29
+217,Comer bem no dia-a-dia,0,0,0,0,0,0,0,0,0,22
+218,Simples mais com boa comida,0,0,0,0,0,0,0,0,0,27
+219,Comida gostosa e em conta,0,0,0,0,0,0,0,0,0,25
+220,Cardápio variado e em conta,0,0,0,0,0,0,0,0,0,27
+221,Cardápio diferenciado,0,0,0,0,0,0,0,0,0,21
+222,carne de sol e feijão verde,0,0,0,0,0,0,0,0,0,27
+223,Comida cara e de má qualidade.,0,0,0,0,0,0,0,0,0,30
+224,Arroz e tomate com tomate seco,0,0,0,0,0,0,0,0,0,30
+225,ótimo custo beneficio!,0,0,0,0,0,0,0,0,0,22
+226,Delícia em forma de crepe,0,0,0,0,0,0,0,0,0,25
+227,Nada de impressionante!,0,0,0,0,0,0,0,0,0,23
+228,Custo beneficio sofrível ,0,0,0,0,0,0,0,0,0,25
+229,Boas opções gastronômicas,0,0,0,0,0,0,0,0,0,25
+230,Fila de espera inexistente ,0,0,0,0,0,0,0,0,0,27
+231,Excelentes: a qualidade e preço.,0,0,0,0,0,0,0,0,0,32
+232,Preço honesto e proteína saudável ,0,0,0,0,0,0,0,0,0,34
+233,A melhor Feijoada da Asa Norte,0,0,0,0,0,0,0,0,0,30
+234,Comida típica nordestina,0,0,0,0,0,0,0,0,0,24
+235,Bom para um café da manhã farto,0,0,0,0,0,0,0,0,0,31
+236,Boa comida e atendimento fraco,0,0,0,0,0,0,0,0,0,30
+237,Caiu muito a qualidade,0,0,0,0,0,0,0,0,0,22
+238,ambiente diferenciado,0,0,0,0,0,0,0,0,0,21
+239,Boa comida  excelente atendimento!,0,0,0,0,0,0,0,0,0,34
+240,Para todo tipo de gosto,0,0,0,0,0,0,0,0,0,23
+241,Rodízio a noite - boa opção,0,0,0,0,0,0,0,0,0,27
+242,Grosseria e enganação,0,0,0,0,0,0,0,0,0,21
+243,Comida boa  ambiente agradável,0,0,0,0,0,0,0,0,0,30
+244,Opção muito boa para o dia a dia,0,0,0,0,0,0,0,0,0,32
+245,Salvação na madrugada,0,0,0,0,0,0,0,0,0,21
+246,Café da manhã muito fraco!!,0,0,0,0,0,0,0,0,0,27
+247,Escondidinho mas gostosinho ,0,0,0,0,0,0,0,0,0,28
+248,Melhor cuscuz de Brasília,0,0,0,0,0,0,0,0,0,25
+249,Boa comida e preço justo,0,0,0,0,0,0,0,0,0,24
+250,Comida elaborada e lua cheia,0,0,0,0,0,0,0,0,0,28
+251,Comer bem gastando pouco,0,0,0,0,0,0,0,0,0,24
+252,Melhor açai que já tomei na vida ,0,0,0,0,0,0,0,0,0,33
+253,Açaí Natural e Delicioso,0,0,0,0,0,0,0,0,0,24
+254,Melhor Açaí da Capital,0,0,0,0,0,0,0,0,0,22
+255,Destaque para os bolos da casa,0,0,0,0,0,0,0,0,0,30
+256,Um agradável achado. ,0,0,0,0,0,0,0,0,0,21
+257,Um bom lugar par se tomar um café,0,0,0,0,0,0,0,0,0,33
+258,Excelente atendimento,0,0,0,0,0,0,0,0,0,21
+259,Almoço de Sexta com os Amigos,0,0,0,0,0,0,0,0,0,29
+260,Normal como todo Giraffas,0,0,0,0,0,0,0,0,0,25
+261,gosto muito do sanduiche deles,0,0,0,0,0,0,0,0,0,30
+262,Melhor rotisseria de Brasília,0,0,0,0,0,0,0,0,0,29
+263,Comida com gosto de casa!,0,0,0,0,0,0,0,0,0,25
+264,Não há nada igual em Brasília,0,0,0,0,0,0,0,0,0,29
+265,Estabelecimento não existe mais,0,0,0,0,0,0,0,0,0,31
+266,Muito caro para o que oferece,0,0,0,0,0,0,0,0,0,29
+267,Comidinha caseira do dia-a-dia,0,0,0,0,0,0,0,0,0,30
+268,Hambúrguer muito gostoso,0,0,0,0,0,0,0,0,0,24
+269,Boa pedida para o fds ...,0,0,0,0,0,0,0,0,0,25
+270,Narguilé muito bem executado! ,0,0,0,0,0,0,0,0,0,30
+271,Não cheguei nem a ser atendida,0,0,0,0,0,0,0,0,0,30
+272,Bem diferente e recomendavel,0,0,0,0,0,0,0,0,0,28
+273,Qualidade e bom preço,0,0,0,0,0,0,0,0,0,21
+274,Melhor Acarajé de Brasília,0,0,0,0,0,0,0,0,0,26
+275,Cardápio diferenciado,0,0,0,0,0,0,0,0,0,21
+276,Ambiente muito agradável,0,0,0,0,0,0,0,0,0,24
+277,Alimentação deliciosa,0,0,0,0,0,0,0,0,0,21
+278,Ótima pedida  mas com ressalvas.,0,0,0,0,0,0,0,0,0,32
+279,Comida excelente a preço justo,0,0,0,0,0,0,0,0,0,30
+280,Ambiente sem frescuras,0,0,0,0,0,0,0,0,0,22
+281,Mais de 20 anos de tradição,0,0,0,0,0,0,0,0,0,27
+282,Opção de Menu Executivo,0,0,0,0,0,0,0,0,0,23
+283,Ótimo custo benefício,0,0,0,0,0,0,0,0,0,21
+284,Cachorro quente gourmet,0,0,0,0,0,0,0,0,0,23
+285,Agradável mudança de planos,0,0,0,0,0,0,0,0,0,27
+286,Delícia de Café e atendimento,0,0,0,0,0,0,0,0,0,29
+287,Restaurante maravilhoso,0,0,0,0,0,0,0,0,0,23
+288,Pizza muito fina e oleosa.,0,0,0,0,0,0,0,0,0,26
+289,Balada boa  diversão garantida ,0,0,0,0,0,0,0,0,0,31
+290,Não sei nem se abriu de verdade ,0,0,0,0,0,0,0,0,0,32
+291,Expectativa não atendida ,0,0,0,0,0,0,0,0,0,25
+292,Tem muito pra melhorar! ,0,0,0,0,0,0,0,0,0,24
+293,A temática Impressiona,0,0,0,0,0,0,0,0,0,22
+294,Excelente café da manhã ,0,0,0,0,0,0,0,0,0,24
+295,Pratos de camarão todo dia!,0,0,0,0,0,0,0,0,0,27
+296,Boa opção perto do Hotel MM,0,0,0,0,0,0,0,0,0,27
+297,Comida Paraense sem muito sabor,0,0,0,0,0,0,0,0,0,31
+298,Culinária paraense de primeira!,0,0,0,0,0,0,0,0,0,31
+299,Cuidado com a cobrança !,0,0,0,0,0,0,0,0,0,24
+300,Demorado e comida ruim,0,0,0,0,0,0,0,0,0,22
+301,"""Carne de sol do sertão?""",0,0,0,0,0,0,0,0,0,25
+302,Comemorar aniversário!,0,0,0,0,0,0,0,0,0,22
+303,Pratos caros  mas muito bons,0,0,0,0,0,0,0,0,0,28
+304,Excelente e descontraído. ,0,0,0,0,0,0,0,0,0,26
+305,Vai no bolinho de bacalhau,0,0,0,0,0,0,0,0,0,26
+306,Bom mas com certeza irá melhorar,0,0,0,0,0,0,0,0,0,32
+307,Pastel com caldo de cana,0,0,0,0,0,0,0,0,0,24
+308,Tem que melhorar MUITO,0,0,0,0,0,0,0,0,0,22
+309,Tá difícil prestigiar...,0,0,0,0,0,0,0,0,0,24
+310,Ambiente bacana e comida boa!,0,0,0,0,0,0,0,0,0,29
+311,Um galeto mal passado  por favor,0,0,0,0,0,0,0,0,0,32
+312,Não é o que se espera.,0,0,0,0,0,0,0,0,0,22
+313,Funcionarios despreparados,0,0,0,0,0,0,0,0,0,26
+314,Perfeito para um lanche rápido,0,0,0,0,0,0,0,0,0,30
+315,Excelente atendimento,0,0,0,0,0,0,0,0,0,21
+316,Rodízio de pizza e buffet ,0,0,0,0,0,0,0,0,0,26
+317,Condiz com o preço ...,0,0,0,0,0,0,0,0,0,22
+318,Boa comida! Garçons atrapalhados!,0,0,0,0,0,0,0,0,0,33
+319,Franccino maravilhoso ,0,0,0,0,0,0,0,0,0,22
