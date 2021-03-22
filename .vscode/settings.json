@@ -1,6 +1,6 @@
 {
     "python.linting.enabled": true,
-    "python.pythonPath": "C:\\Users\\wesley.neves\\AppData\\Local\\Continuum\\anaconda3\\python.exe",
+    "python.pythonPath": "C:\\Users\\wesley.neves\\Anaconda3\\python.exe",
 
     "sqltools.connections": [
         {
