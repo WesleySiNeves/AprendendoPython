@@ -1,38 +1,17 @@
-from iqoptionapi.stable_api import  IQ_Option
+
 import time
 import pandas as pd
+from datetime import datetime  
+from datetime import timedelta 
 import json
 
 
-user ='wesley.si.neves@hotmail.com';
-password  ='96086512'
-API = IQ_Option(user,password)
-# API.set_max_reconnect(5);
-# API.change_balance('PRACTICE') # PRACTICE(treinamento) REAL (real)
 
-while True:
-    if(API.check_connect() ==False):
-        print("Tentando conectar")
-        API.reconnect()
+x = datetime(2021, 3, 23)
     
-    else:
-        print("Api conectada com sucesso")
-        break;
+horarioOperacao = '2021-03-23 '+'00:20:57'
     
-    time.sleep(1)
-        
-API.connect()        
-
-
-def get_perfil():
-    perfil = json.loads(json.dumps(API.get_profile_ansyc()))
-    
-    return perfil
-
-
-print(get_perfil())
-
-
-        
-    
+horaLimite = (datetime.strptime(horarioOperacao, '%YYYY-%MM-%DD %H:%M:%S') + timedelta(seconds=4))
+ 
+print(horarioOperacao,horaLimite)
 
