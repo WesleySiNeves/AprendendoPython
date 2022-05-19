@@ -10,5 +10,6 @@
         }
     ],
     "sqltools.useNodeRuntime": true,
-    "git.ignoreLimitWarning": true
+    "git.ignoreLimitWarning": true,
+    "files.autoSave": "afterDelay"
 }
