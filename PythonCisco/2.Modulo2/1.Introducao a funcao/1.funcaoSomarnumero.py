@@ -1,10 +1,12 @@
 
+valor1 = 10 
+valor2 = 30
+nome = "wesley"
 
 
-def SomarDoisNumeros(numero1,numero2):
-    numero1 + numero2
 
 
+# Argumentos "Valor maior que 10"
 
-SomarDoisNumeros(40,20) 
+
 
